@@ -1,0 +1,36 @@
+Edu_To_Create_LogisticRegression.py
+Edu_To_sigmode_function.py
+Edu_To_Edu_To_Create_LogisticRegression_with_L1.py
+Edu_To_PolynomialFeatures.py
+Edu_To_confusion matrix.py
+Edu_To_LogisticRegression.py
+
+Edu_To_RMSE.py
+Edu_To_coefficient_and_intercept.py
+
+Deepen_Edu_To_ LinearRegression.py
+
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+Deepen_Edu_To_
+
+
+Edu_To_AndGate.py
+Edu_To_OrGate.py
+Edu_To_XORGate.py
+Edu_To_Perceptron.py
+Edu_To_criterion.py
+Edu_To_Perceptron_sigmoid.py
+Edu_To_learning_rate
+Edu_To_Perceptron_with_PyTorchTHf
+Edu_To_Perceptron_Last_loss.py
+
+Edu_To_grid_with_Perceptron
+
+Edu_To_
